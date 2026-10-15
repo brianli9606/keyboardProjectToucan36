@@ -90,7 +90,7 @@
         Nav {
             display-name = "SYM";
             bindings = <
-&trans  &trans  &kp UP  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &kp LEFT  &kp DOWN  &kp RIGHT  &trans  &kp CAPS  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &kp END  &kp PAGE_UP  &kp PAGE_DOWN  &kp HOME  &kp INSERT  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans
+&trans  &none  &none  &kp UP_ARROW  &none  &none  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &none  &kp LEFT_ARROW  &kp DOWN_ARROW  &kp RIGHT  &kp CAPS  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &kp END  &kp PAGE_UP  &kp PAGE_DOWN  &kp HOME  &kp INSERT  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans
             >;
         };
 
