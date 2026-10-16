@@ -81,14 +81,14 @@
         };
 
         Num {
-            display-name = "NAV";
+            display-name = "NUM";
             bindings = <
 &trans  &kp LEFT_BRACKET  &kp NUMBER_1  &kp NUMBER_2  &kp NUMBER_3  &kp RIGHT_BRACKET  &trans  &trans  &trans  &trans  &kp TAB  &trans  &none  &kp MINUS  &kp N5  &kp NUMBER_6  &kp N7  &kp EQUAL  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &kp GRAVE  &kp N8  &kp N9  &kp N9  &kp BACKSLASH  &studio_unlock  &bt BT_NXT  &bt BT_PRV  &bt BT_CLR  &trans  &trans  &kp LGUI  &trans  &kp SPACE  &kp N0  &trans  &kp RALT
             >;
         };
 
         Nav {
-            display-name = "SYM";
+            display-name = "NAV";
             bindings = <
 &trans  &none  &none  &kp UP_ARROW  &none  &none  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &none  &kp LEFT_ARROW  &kp DOWN_ARROW  &kp RIGHT  &kp CAPS  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &kp END  &kp PAGE_UP  &kp PAGE_DOWN  &kp HOME  &kp INSERT  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans
             >;
