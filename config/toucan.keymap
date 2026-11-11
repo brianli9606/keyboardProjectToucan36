@@ -108,7 +108,7 @@
             >;
         };
 
-        layer_6 {
+        Gaming {
             bindings = <
 &trans  &trans  &kp UP  &trans  &trans  &trans  &trans  &trans  &mmv MOVE_UP  &trans  &trans  &trans  &trans  &kp LEFT  &kp DOWN  &kp RIGHT  &trans  &trans  &trans  &mmv MOVE_LEFT  &mmv MOVE_DOWN  &mmv MOVE_RIGHT  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &mkp LCLK  &mkp RCLK  &trans
             >;
